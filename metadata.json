@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Music Downloader",
+  "description": "חיפוש שירים מיוטיוב, האזנה ישירה והורדת קובצי MP3 ו-MP4 בצרכים אישיים בחינם",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
